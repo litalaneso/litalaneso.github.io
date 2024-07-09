@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://litalaneso.github.io/sitemap
+Sitemap: https://litalaneso.github.io/app/sitemap
+Sitemap: https://litalaneso.github.io/assets/sitemap
+Sitemap: https://litalaneso.github.io/css/sitemap
+Sitemap: https://litalaneso.github.io/includes/sitemap
+Sitemap: https://litalaneso.github.io/item/sitemap
+Sitemap: https://litalaneso.github.io/src/sitemap
